@@ -19,3 +19,15 @@ a resource of spatial transcriptomics research
 
 - [Slide-seq](https://science.sciencemag.org/content/363/6434/1463)
 - [Slide-seqV2](https://www.nature.com/articles/s41587-020-0739-1)
+
+## Application potentials of ST in diseases
+
+### *ST and neurology*
+
+### *ST and Embryo Development*
+
+### *ST and Pathology*
+
+### *ST and inflammatory disease*
+
+
